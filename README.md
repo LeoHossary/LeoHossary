@@ -19,3 +19,4 @@ Tenho interesse em atuar como Desenvolvedor de Software Back-End, Front-End e Fu
 Seria eu se não fosse você - Valentin
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoHossary&layout=compact&theme=tokyonight&custom_title=Principais%20%Linguagens)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoHossary&hide=contribs,prs&theme=tokyonight)
