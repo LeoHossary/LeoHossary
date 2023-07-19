@@ -7,8 +7,6 @@ A única forma que mudar a sua vida é dando um passo de cada vez rumo a um novo
 Tenho interesse em atuar como Desenvolvedor de Software Back-End, Front-End e Full-Stack.
 
 ## Para me encontrar: 📌
-![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leohossary/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-hossary/)
 
 ## Hard Skills:
