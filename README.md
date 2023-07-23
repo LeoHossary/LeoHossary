@@ -14,7 +14,7 @@ Tenho interesse em atuar como Desenvolvedor de Software Back-End, Front-End e Fu
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-Seria eu se não fosse você - Valentin
+**Nunca perca a oportunidade de fazer uma boa ação.**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoHossary&layout=compact&theme=tokyonight&custom_title=Principais%20%Linguagens)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoHossary&show=reviews&theme=tokyonight)
